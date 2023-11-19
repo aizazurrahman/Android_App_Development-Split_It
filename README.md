@@ -6,3 +6,4 @@ Split-It': An app born out of my commitment to Food Talk, my college club for fe
 Here is the glimpse of the App's UI. Visit the folder "View The App's UI" for detailed visuals
 
 ![SS_6](https://github.com/aizazurrahman/Android_App_Development-Split_It/assets/99770920/f87147fd-3568-4e2a-88d6-06f1aaa54c2d)
+<img src="path/to/your/image.jpg" alt="Image Alt Text" width="300px">
