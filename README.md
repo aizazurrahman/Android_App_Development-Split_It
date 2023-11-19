@@ -6,4 +6,4 @@
 
 Here is the glimpse of the App's UI. Visit the folder "View The App's UI" for detailed visuals
 
-<img src="https://github.com/aizazurrahman/Android_App_Development-Split_It/assets/99770920/f87147fd-3568-4e2a-88d6-06f1aaa54c2d" alt="SS_6" width="200px">
+<img src="https://github.com/aizazurrahman/Android_App_Development-Split_It/assets/99770920/f87147fd-3568-4e2a-88d6-06f1aaa54c2d" alt="SS_6" width="400px">
